@@ -1,7 +1,8 @@
 # Harry-Potter-Invisible-Cloak-Open-cv
 Invisible cloak mask Harry Potter- Open cv Python
 
-Replica for Research(Original Creator: https://www.youtube.com/watch?v=suytB_6aS6M - https://github.com/kairess/invisibility_cloak )
+Replica for Research(Original Creator(
+Taehee Brad Lee): https://www.youtube.com/watch?v=suytB_6aS6M - https://github.com/kairess )
 
 Morphological Transformations in Open CV-https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html
 
